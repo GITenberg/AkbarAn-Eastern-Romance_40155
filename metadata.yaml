@@ -1,0 +1,48 @@
+_repo: AkbarAn-Eastern-Romance_40155
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: M. M.
+    gutenberg_agent_id: '40445'
+    url: http://www.gutenberg.org/2009/agents/40445
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Limburg Brouwer, P. A. S. van (Petrus Abraham Samuel)
+    aliases:
+    - Van Limburg Brouwer, P. A. S. (Petrus Abraham Samuel)
+    - Limburg-Brouwer, P. A. S. van
+    - Limburg Brouwer, Petrus Abraham Samuel van
+    - Brouwer, P. A. S. van Limburg
+    birthdate: 1829
+    deathdate: 1873
+    gutenberg_agent_id: '40444'
+    url: http://www.gutenberg.org/2009/agents/40444
+  editor:
+    agent_name: Markham, Clements R. (Clements Robert), Sir
+    aliases:
+    - Markham, Sir Clements R. (Clements Robert)
+    - Markham, Clements Robert, Sir
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '2962'
+    url: http://www.gutenberg.org/2009/agents/2962
+    wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+description: ''
+gutenberg_issued: '2012-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction -- Translations into English'
+- !lcsh 'Akbar, Emperor of Hindustan, 1542-1605'
+- !lcc 'PT'
+- !lcsh 'Akbar, Emperor of Hindustan, 1542-1605 -- Fiction'
+title: 'Akbar: An Eastern Romance'
+url: http://www.gutenberg.org/ebooks/40155
